@@ -1,0 +1,17 @@
+* text=auto eol=lf
+*.cs text eol=lf
+*.meta text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.unity text eol=lf
+*.prefab text eol=lf
+ToastClient/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_2_0.bundle filter=lfs diff=lfs merge=lfs -text
+ToastClient/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_2_0.so filter=lfs diff=lfs merge=lfs -text
+"ToastUnityClient/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_2_0.bundle" filter=lfs diff=lfs merge=lfs -text
+"ToastUnityClient/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_2_0.so" filter=lfs diff=lfs merge=lfs -text
