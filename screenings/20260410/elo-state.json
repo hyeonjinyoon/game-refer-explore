@@ -1,0 +1,1192 @@
+{
+  "date": "20260410",
+  "candidates": [
+    "루나페이즈-프로젝트",
+    "픽셀-히어로즈-방치형-RPG",
+    "드래곤네스트-월드",
+    "드래곤-퀘스트-스매시-그로우",
+    "임진왜란-조선의-반격",
+    "미소녀-앨범",
+    "에스카라",
+    "모래-폭풍의-외로운-늑대",
+    "냥냥섬-전설의-집사",
+    "아웃포스트-서바이벌-방치형-머지",
+    "불릿-뱅가드",
+    "비스트-클래시-라스트-프런트",
+    "펀치-스쿼드-파이팅-게임",
+    "카령전기",
+    "Dead-City-Last-Escape",
+    "Soulbound-Awakening",
+    "초초초초밥-협동디펜스",
+    "Tank-Raiders-Roguelike-Run",
+    "Dark-Beast-Assault",
+    "Slate-Hunters"
+  ],
+  "elos": {
+    "루나페이즈-프로젝트": 1594,
+    "픽셀-히어로즈-방치형-RPG": 1532,
+    "드래곤네스트-월드": 1469,
+    "드래곤-퀘스트-스매시-그로우": 1501,
+    "임진왜란-조선의-반격": 1533,
+    "미소녀-앨범": 1407,
+    "에스카라": 1469,
+    "모래-폭풍의-외로운-늑대": 1500,
+    "냥냥섬-전설의-집사": 1500,
+    "아웃포스트-서바이벌-방치형-머지": 1532,
+    "불릿-뱅가드": 1469,
+    "비스트-클래시-라스트-프런트": 1534,
+    "펀치-스쿼드-파이팅-게임": 1468,
+    "카령전기": 1532,
+    "Dead-City-Last-Escape": 1467,
+    "Soulbound-Awakening": 1467,
+    "초초초초밥-협동디펜스": 1533,
+    "Tank-Raiders-Roguelike-Run": 1499,
+    "Dark-Beast-Assault": 1466,
+    "Slate-Hunters": 1528
+  },
+  "current_round": 6,
+  "rounds_planned": 6,
+  "matchups": [
+    [
+      "루나페이즈-프로젝트",
+      "임진왜란-조선의-반격"
+    ],
+    [
+      "에스카라",
+      "픽셀-히어로즈-방치형-RPG"
+    ],
+    [
+      "불릿-뱅가드",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "드래곤-퀘스트-스매시-그로우",
+      "아웃포스트-서바이벌-방치형-머지"
+    ],
+    [
+      "Soulbound-Awakening",
+      "모래-폭풍의-외로운-늑대"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "카령전기"
+    ],
+    [
+      "Tank-Raiders-Roguelike-Run",
+      "드래곤네스트-월드"
+    ],
+    [
+      "Slate-Hunters",
+      "미소녀-앨범"
+    ],
+    [
+      "비스트-클래시-라스트-프런트",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "Dead-City-Last-Escape"
+    ],
+    [
+      "루나페이즈-프로젝트",
+      "픽셀-히어로즈-방치형-RPG"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "모래-폭풍의-외로운-늑대"
+    ],
+    [
+      "불릿-뱅가드",
+      "아웃포스트-서바이벌-방치형-머지"
+    ],
+    [
+      "Dead-City-Last-Escape",
+      "비스트-클래시-라스트-프런트"
+    ],
+    [
+      "Slate-Hunters",
+      "Tank-Raiders-Roguelike-Run"
+    ],
+    [
+      "드래곤-퀘스트-스매시-그로우",
+      "드래곤네스트-월드"
+    ],
+    [
+      "미소녀-앨범",
+      "임진왜란-조선의-반격"
+    ],
+    [
+      "에스카라",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "Soulbound-Awakening",
+      "카령전기"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "루나페이즈-프로젝트",
+      "모래-폭풍의-외로운-늑대"
+    ],
+    [
+      "비스트-클래시-라스트-프런트",
+      "아웃포스트-서바이벌-방치형-머지"
+    ],
+    [
+      "Slate-Hunters",
+      "픽셀-히어로즈-방치형-RPG"
+    ],
+    [
+      "드래곤-퀘스트-스매시-그로우",
+      "임진왜란-조선의-반격"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "에스카라"
+    ],
+    [
+      "불릿-뱅가드",
+      "카령전기"
+    ],
+    [
+      "Dead-City-Last-Escape",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "Tank-Raiders-Roguelike-Run",
+      "미소녀-앨범"
+    ],
+    [
+      "드래곤네스트-월드",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "Soulbound-Awakening"
+    ],
+    [
+      "루나페이즈-프로젝트",
+      "아웃포스트-서바이벌-방치형-머지"
+    ],
+    [
+      "임진왜란-조선의-반격",
+      "픽셀-히어로즈-방치형-RPG"
+    ],
+    [
+      "모래-폭풍의-외로운-늑대",
+      "불릿-뱅가드"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "비스트-클래시-라스트-프런트"
+    ],
+    [
+      "Tank-Raiders-Roguelike-Run",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "Slate-Hunters",
+      "드래곤-퀘스트-스매시-그로우"
+    ],
+    [
+      "에스카라",
+      "카령전기"
+    ],
+    [
+      "Dead-City-Last-Escape",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "미소녀-앨범"
+    ],
+    [
+      "Soulbound-Awakening",
+      "드래곤네스트-월드"
+    ],
+    [
+      "루나페이즈-프로젝트",
+      "비스트-클래시-라스트-프런트"
+    ],
+    [
+      "모래-폭풍의-외로운-늑대",
+      "픽셀-히어로즈-방치형-RPG"
+    ],
+    [
+      "아웃포스트-서바이벌-방치형-머지",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "Slate-Hunters",
+      "임진왜란-조선의-반격"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "불릿-뱅가드"
+    ],
+    [
+      "Dead-City-Last-Escape",
+      "카령전기"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "Tank-Raiders-Roguelike-Run"
+    ],
+    [
+      "드래곤-퀘스트-스매시-그로우",
+      "에스카라"
+    ],
+    [
+      "Soulbound-Awakening",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "드래곤네스트-월드",
+      "미소녀-앨범"
+    ],
+    [
+      "루나페이즈-프로젝트",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "비스트-클래시-라스트-프런트",
+      "픽셀-히어로즈-방치형-RPG"
+    ],
+    [
+      "모래-폭풍의-외로운-늑대",
+      "임진왜란-조선의-반격"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "아웃포스트-서바이벌-방치형-머지"
+    ],
+    [
+      "Tank-Raiders-Roguelike-Run",
+      "카령전기"
+    ],
+    [
+      "Slate-Hunters",
+      "불릿-뱅가드"
+    ],
+    [
+      "드래곤-퀘스트-스매시-그로우",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "Dead-City-Last-Escape",
+      "드래곤네스트-월드"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "에스카라"
+    ],
+    [
+      "Soulbound-Awakening",
+      "미소녀-앨범"
+    ]
+  ],
+  "current_round_pairs": [
+    [
+      "루나페이즈-프로젝트",
+      "초초초초밥-협동디펜스"
+    ],
+    [
+      "픽셀-히어로즈-방치형-RPG",
+      "비스트-클래시-라스트-프런트"
+    ],
+    [
+      "임진왜란-조선의-반격",
+      "모래-폭풍의-외로운-늑대"
+    ],
+    [
+      "냥냥섬-전설의-집사",
+      "아웃포스트-서바이벌-방치형-머지"
+    ],
+    [
+      "카령전기",
+      "Tank-Raiders-Roguelike-Run"
+    ],
+    [
+      "Slate-Hunters",
+      "불릿-뱅가드"
+    ],
+    [
+      "드래곤-퀘스트-스매시-그로우",
+      "펀치-스쿼드-파이팅-게임"
+    ],
+    [
+      "Dead-City-Last-Escape",
+      "드래곤네스트-월드"
+    ],
+    [
+      "Dark-Beast-Assault",
+      "에스카라"
+    ],
+    [
+      "Soulbound-Awakening",
+      "미소녀-앨범"
+    ]
+  ],
+  "history": [
+    {
+      "round": 1,
+      "match": 1,
+      "a": "루나페이즈-프로젝트",
+      "b": "임진왜란-조선의-반격",
+      "winner": "A",
+      "reason": "배틀로얄+로그라이트 하이브리드의 트렌드 적합성과 화려한 이펙트/모바일 네이티브 UI가 전형적 MMORPG 대비 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 2,
+      "a": "에스카라",
+      "b": "픽셀-히어로즈-방치형-RPG",
+      "winner": "B",
+      "reason": "픽셀 히어로즈가 세로화면 최적화 UI와 레트로 아트+일러스트 조합으로 방치형 트렌드에 부합하며, 에스카라는 과밀 UI의 전형적 중국산 MMORPG 공식 답습",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 3,
+      "a": "펀치-스쿼드-파이팅-게임",
+      "b": "불릿-뱅가드",
+      "winner": "B",
+      "reason": "불릿뱅가드가 무기 인벤토리/장비 조합 등 메타 시스템 깊이와 SD 캐릭터 아트로 우위, 펀치스쿼드는 로우폴리+단조로운 루프",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 4,
+      "a": "드래곤-퀘스트-스매시-그로우",
+      "b": "아웃포스트-서바이벌-방치형-머지",
+      "winner": "B",
+      "reason": "아웃포스트의 방치형+머지 하이브리드가 모바일 네이티브 트렌드에 부합, 드퀘는 콘솔 IP 이식작 감점",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 5,
+      "a": "모래-폭풍의-외로운-늑대",
+      "b": "Soulbound-Awakening",
+      "winner": "A",
+      "reason": "머지+차량슈터 조합의 트렌드 차별화와 카툰 3D 프로덕션이 양산형 방치RPG 대비 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 6,
+      "a": "냥냥섬-전설의-집사",
+      "b": "카령전기",
+      "winner": "A",
+      "reason": "냥냥섬의 SD캐릭터/배경 디테일 프로덕션과 고양이+힐링 트렌드가 우위, 카령전기는 프로덕션 완성도 낮음",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 7,
+      "a": "Tank-Raiders-Roguelike-Run",
+      "b": "드래곤네스트-월드",
+      "winner": "A",
+      "reason": "로그라이크런+병력수집이 모바일 트렌드 부합, 드래곤네스트는 PC IP 포팅 감점+구세대 MMORPG UI 답습",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 8,
+      "a": "Slate-Hunters",
+      "b": "미소녀-앨범",
+      "winner": "A",
+      "reason": "Slate-Hunters는 던전크롤러 게임루프+시즌패스 확인, 미소녀앨범은 AI생성 이미지만으로 게임 메커니즘 전무",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 9,
+      "a": "비스트-클래시-라스트-프런트",
+      "b": "초초초초밥-협동디펜스",
+      "winner": "A",
+      "reason": "비스트클래시의 3D 에셋+다층 메타시스템(수집+육성+기지건설)이 초초초초밥의 2D 머지디펜스 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 10,
+      "a": "Dark-Beast-Assault",
+      "b": "Dead-City-Last-Escape",
+      "winner": "B",
+      "reason": "Dead City의 SAN/자원품질 다층 서바이벌 시스템이 Dark Beast의 단순 뱀서라이크 클론 대비 게임깊이+트렌드 차별성 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 2,
+      "match": 1,
+      "a": "루나페이즈-프로젝트",
+      "b": "픽셀-히어로즈-방치형-RPG",
+      "winner": "A",
+      "reason": "배틀로얄+로그라이트 하이브리드의 3D 멀티플레이 전투와 무기빌드 시스템이 정형화된 세로 방치형 RPG 대비 트렌드/프로덕션/깊이 모두 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 2,
+      "a": "모래-폭풍의-외로운-늑대",
+      "b": "냥냥섬-전설의-집사",
+      "winner": "A",
+      "reason": "머지+차량슈터의 실질적 게임루프가 비주얼노벨 중심 대화 화면 대비 트렌드/깊이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 3,
+      "a": "아웃포스트-서바이벌-방치형-머지",
+      "b": "불릿-뱅가드",
+      "winner": "A",
+      "reason": "아웃포스트의 머지+자동전투 이중루프와 6개 메타탭이 불릿뱅가드의 단순 장비그리드 대비 게임깊이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 4,
+      "a": "비스트-클래시-라스트-프런트",
+      "b": "Dead-City-Last-Escape",
+      "winner": "A",
+      "reason": "3D 비스트모델+아이소메트릭 기지+월드맵의 다층시스템이 2D 텍스트 인디 서바이벌 대비 전 항목 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 5,
+      "a": "Tank-Raiders-Roguelike-Run",
+      "b": "Slate-Hunters",
+      "winner": "B",
+      "reason": "Slate-Hunters의 시즌패스/챕터/장비 메타시스템과 던전크롤러 트렌드가 탱크 로그라이크런 대비 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1500,
+      "elo_b_after": 1532
+    },
+    {
+      "round": 2,
+      "match": 6,
+      "a": "드래곤네스트-월드",
+      "b": "드래곤-퀘스트-스매시-그로우",
+      "winner": "B",
+      "reason": "드퀘의 로그라이크 던전+토리야마 스타일 3D 모델링이 드래곤네스트의 전형적 MMORPG UI 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 7,
+      "a": "임진왜란-조선의-반격",
+      "b": "미소녀-앨범",
+      "winner": "A",
+      "reason": "임진왜란은 3D 필드전투/NPC대화 등 인게임 확인, 미소녀앨범은 AI일러스트만으로 게임메커니즘 부재",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 2,
+      "match": 8,
+      "a": "에스카라",
+      "b": "펀치-스쿼드-파이팅-게임",
+      "winner": "A",
+      "reason": "에스카라의 3D 환경아트+이펙트 프로덕션과 다중 육성 깊이가 펀치스쿼드의 하이퍼캐주얼 수준 대비 전 항목 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 2,
+      "match": 9,
+      "a": "카령전기",
+      "b": "Soulbound-Awakening",
+      "winner": "A",
+      "reason": "카령전기의 TD+카드배치 전략레이어가 Soulbound의 양산형 VIP/AFK 방치RPG 대비 깊이/트렌드 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 2,
+      "match": 10,
+      "a": "초초초초밥-협동디펜스",
+      "b": "Dark-Beast-Assault",
+      "winner": "A",
+      "reason": "초초초초밥의 협동머지디펜스+Synergy/Merge UI 깊이가 Dark Beast의 단순 뱀서라이크 클론 대비 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 3,
+      "match": 1,
+      "a": "루나페이즈-프로젝트",
+      "b": "모래-폭풍의-외로운-늑대",
+      "winner": "A",
+      "reason": "배틀로얄+로그라이트의 8인 PVP와 무기빌드가 머지+차량 하이퍼캐주얼 대비 트렌드/프로덕션/깊이 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1532,
+      "elo_a_after": 1548,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 2,
+      "a": "아웃포스트-서바이벌-방치형-머지",
+      "b": "비스트-클래시-라스트-프런트",
+      "winner": "A",
+      "reason": "방치형+머지 검증공식+6개 메타탭의 다층육성이 전형적 중국 SLG 문법 대비 트렌드 차별화 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1532,
+      "elo_a_after": 1548,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 3,
+      "a": "Slate-Hunters",
+      "b": "픽셀-히어로즈-방치형-RPG",
+      "winner": "B",
+      "reason": "픽셀히어로즈의 세로화면 자동전투+장비합성+세트보너스 완성도가 Slate의 얕은 진행/어두운 비주얼 대비 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1500,
+      "elo_a_after": 1515,
+      "elo_b_after": 1517
+    },
+    {
+      "round": 3,
+      "match": 4,
+      "a": "드래곤-퀘스트-스매시-그로우",
+      "b": "임진왜란-조선의-반격",
+      "winner": "B",
+      "reason": "임진왜란이 모바일 네이티브 정체성과 역사 스토리 독자성으로 콘솔IP 이식작 드퀘 대비 트렌드 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 5,
+      "a": "에스카라",
+      "b": "냥냥섬-전설의-집사",
+      "winner": "B",
+      "reason": "냥냥섬의 SD캐릭터+힐링 캐주얼 아트완성도가 에스카라의 과밀UI 선협MMO 레드오션 대비 차별화 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 6,
+      "a": "불릿-뱅가드",
+      "b": "카령전기",
+      "winner": "A",
+      "reason": "불릿뱅가드의 무기 인벤토리+합성 빌드루프가 카령전기의 단조로운 TD 대비 아트/차별화 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 3,
+      "match": 7,
+      "a": "Dead-City-Last-Escape",
+      "b": "초초초초밥-협동디펜스",
+      "winner": "B",
+      "reason": "초초초초밥의 4중 레이어 협동+독창적 초밥 테마가 Dead City의 텍스트 인디 서바이벌 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 8,
+      "a": "Tank-Raiders-Roguelike-Run",
+      "b": "미소녀-앨범",
+      "winner": "A",
+      "reason": "Tank Raiders의 카툰 밀리터리 아트와 병사모집 UI가 미소녀앨범의 게임성 부재 대비 압도적 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1468,
+      "elo_a_after": 1515,
+      "elo_b_after": 1453
+    },
+    {
+      "round": 3,
+      "match": 9,
+      "a": "드래곤네스트-월드",
+      "b": "펀치-스쿼드-파이팅-게임",
+      "winner": "B",
+      "reason": "PC IP 포팅 감점으로 드래곤네스트가 열세, 펀치스쿼드가 모바일 네이티브 캐주얼로 트렌드 부합",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1452,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 3,
+      "match": 10,
+      "a": "Soulbound-Awakening",
+      "b": "Dark-Beast-Assault",
+      "winner": "B",
+      "reason": "뱀서라이크 세로형 최적화가 양산형 VIP/AFK 방치RPG 대비 트렌드 적합성 우위",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1452,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 4,
+      "match": 1,
+      "a": "루나페이즈-프로젝트",
+      "b": "아웃포스트-서바이벌-방치형-머지",
+      "winner": "A",
+      "reason": "배틀로얄+로그라이트의 8인 PVP+화려한 이펙트가 픽셀 머지+방치형 레드오션 대비 트렌드/프로덕션 우위",
+      "elo_a_before": 1548,
+      "elo_b_before": 1548,
+      "elo_a_after": 1564,
+      "elo_b_after": 1532
+    },
+    {
+      "round": 4,
+      "match": 2,
+      "a": "픽셀-히어로즈-방치형-RPG",
+      "b": "임진왜란-조선의-반격",
+      "winner": "A",
+      "reason": "세로화면 최적화+장비합성 세트보너스 시스템이 정적인 MMORPG 대화연출 대비 접근성/깊이 소폭 우위",
+      "elo_a_before": 1517,
+      "elo_b_before": 1516,
+      "elo_a_after": 1533,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 3,
+      "a": "모래-폭풍의-외로운-늑대",
+      "b": "불릿-뱅가드",
+      "winner": "A",
+      "reason": "3D 카툰 에셋+머지+차량전투 조합의 참신함이 단순 2D 사이드스크롤 슈팅 대비 프로덕션/트렌드 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 4,
+      "a": "냥냥섬-전설의-집사",
+      "b": "비스트-클래시-라스트-프런트",
+      "winner": "B",
+      "reason": "3D 비스트모델링+기지건설+월드맵 다층시스템이 비주얼노벨 중심 텍스트 진행 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1500,
+      "elo_b_after": 1532
+    },
+    {
+      "round": 4,
+      "match": 5,
+      "a": "초초초초밥-협동디펜스",
+      "b": "Tank-Raiders-Roguelike-Run",
+      "winner": "A",
+      "reason": "머지+협동+시너지 4중 메카닉과 독창적 초밥 테마가 단순 횡스크롤 탱크 대비 트렌드/깊이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1515,
+      "elo_a_after": 1532,
+      "elo_b_after": 1499
+    },
+    {
+      "round": 4,
+      "match": 6,
+      "a": "Slate-Hunters",
+      "b": "드래곤-퀘스트-스매시-그로우",
+      "winner": "A",
+      "reason": "콘솔IP 감점으로 드퀘 열세, Slate가 모바일 네이티브 로그라이트로 트렌드 부합",
+      "elo_a_before": 1515,
+      "elo_b_before": 1484,
+      "elo_a_after": 1530,
+      "elo_b_after": 1469
+    },
+    {
+      "round": 4,
+      "match": 7,
+      "a": "에스카라",
+      "b": "카령전기",
+      "winner": "B",
+      "reason": "카령전기의 웨이브TD+카드전략이 에스카라의 양산형 오토퀘스트 MMO 대비 게임깊이/차별화 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 8,
+      "a": "펀치-스쿼드-파이팅-게임",
+      "b": "Dead-City-Last-Escape",
+      "winner": "B",
+      "reason": "Dead City의 SAN+자원관리 서바이벌 깊이가 펀치스쿼드의 단순 래그돌 격투 대비 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 9,
+      "a": "Dark-Beast-Assault",
+      "b": "미소녀-앨범",
+      "winner": "A",
+      "reason": "뱀서라이크 게임루프가 미소녀앨범의 게임성 부재 AI일러스트 대비 모든 기준 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1453,
+      "elo_a_after": 1499,
+      "elo_b_after": 1438
+    },
+    {
+      "round": 4,
+      "match": 10,
+      "a": "드래곤네스트-월드",
+      "b": "Soulbound-Awakening",
+      "winner": "B",
+      "reason": "PC IP 포팅 감점으로 드래곤네스트 열세, Soulbound가 최소 모바일 네이티브",
+      "elo_a_before": 1452,
+      "elo_b_before": 1452,
+      "elo_a_after": 1436,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 5,
+      "match": 1,
+      "a": "루나페이즈-프로젝트",
+      "b": "비스트-클래시-라스트-프런트",
+      "winner": "A",
+      "reason": "배틀로얄+로그라이트의 3D PVP 전투가 보수적 중국 SLG 문법 대비 트렌드/프로덕션 우위",
+      "elo_a_before": 1564,
+      "elo_b_before": 1532,
+      "elo_a_after": 1579,
+      "elo_b_after": 1517
+    },
+    {
+      "round": 5,
+      "match": 2,
+      "a": "픽셀-히어로즈-방치형-RPG",
+      "b": "모래-폭풍의-외로운-늑대",
+      "winner": "A",
+      "reason": "다층 육성구조+장비합성 시스템이 하이퍼캐주얼 머지+차량 자동전투 대비 게임깊이 우위",
+      "elo_a_before": 1533,
+      "elo_b_before": 1532,
+      "elo_a_after": 1549,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 5,
+      "match": 3,
+      "a": "아웃포스트-서바이벌-방치형-머지",
+      "b": "초초초초밥-협동디펜스",
+      "winner": "B",
+      "reason": "소환-머지-시너지-협동 다층 메카닉과 독창적 초밥 테마가 방치형+머지 레드오션 대비 차별화 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1532,
+      "elo_a_after": 1516,
+      "elo_b_after": 1548
+    },
+    {
+      "round": 5,
+      "match": 4,
+      "a": "Slate-Hunters",
+      "b": "임진왜란-조선의-반격",
+      "winner": "B",
+      "reason": "역사소재+3D 액션전투의 프로덕션이 픽셀 던전크롤러의 낮은 비주얼밀도 대비 우위",
+      "elo_a_before": 1530,
+      "elo_b_before": 1500,
+      "elo_a_after": 1513,
+      "elo_b_after": 1517
+    },
+    {
+      "round": 5,
+      "match": 5,
+      "a": "냥냥섬-전설의-집사",
+      "b": "불릿-뱅가드",
+      "winner": "A",
+      "reason": "SD고양이 아트완성도+배경디테일이 소규모 인디 슈팅 대비 아트/프로덕션 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 5,
+      "match": 6,
+      "a": "카령전기",
+      "b": "Dead-City-Last-Escape",
+      "winner": "A",
+      "reason": "TD+카드전략 레이어가 인디 텍스트 서바이벌 대비 게임깊이/프로덕션 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 5,
+      "match": 7,
+      "a": "Tank-Raiders-Roguelike-Run",
+      "b": "Dark-Beast-Assault",
+      "winner": "A",
+      "reason": "카툰 밀리터리+병력수집이 단순 뱀서라이크 클론 대비 아트/차별화 우위",
+      "elo_a_before": 1499,
+      "elo_b_before": 1499,
+      "elo_a_after": 1515,
+      "elo_b_after": 1483
+    },
+    {
+      "round": 5,
+      "match": 8,
+      "a": "드래곤-퀘스트-스매시-그로우",
+      "b": "에스카라",
+      "winner": "A",
+      "reason": "콘솔IP 감점에도 토리야마 스타일 3D+로그라이크 던전이 양산형 선협 MMO 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1469,
+      "elo_b_before": 1468,
+      "elo_a_after": 1485,
+      "elo_b_after": 1452
+    },
+    {
+      "round": 5,
+      "match": 9,
+      "a": "펀치-스쿼드-파이팅-게임",
+      "b": "Soulbound-Awakening",
+      "winner": "A",
+      "reason": "래그돌 물리 고유재미가 양산형 VIP/AFK 방치RPG 대비 차별화 우위",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1484,
+      "elo_b_after": 1452
+    },
+    {
+      "round": 5,
+      "match": 10,
+      "a": "미소녀-앨범",
+      "b": "드래곤네스트-월드",
+      "winner": "B",
+      "reason": "PC IP 감점에도 3D 액션전투 프로덕션이 게임성 부재 AI일러스트 대비 압도적 우위",
+      "elo_a_before": 1438,
+      "elo_b_before": 1436,
+      "elo_a_after": 1422,
+      "elo_b_after": 1452
+    },
+    {
+      "round": 6,
+      "match": 1,
+      "a": "루나페이즈-프로젝트",
+      "b": "초초초초밥-협동디펜스",
+      "winner": "A",
+      "reason": "배틀로얄+로그라이트의 3D PVP+화려한 이펙트가 2D 머지디펜스 대비 트렌드/프로덕션 우위",
+      "elo_a_before": 1579,
+      "elo_b_before": 1548,
+      "elo_a_after": 1594,
+      "elo_b_after": 1533
+    },
+    {
+      "round": 6,
+      "match": 2,
+      "a": "픽셀-히어로즈-방치형-RPG",
+      "b": "비스트-클래시-라스트-프런트",
+      "winner": "B",
+      "reason": "3D 비스트모델+기지건설+월드맵 다층시스템이 정형화된 방치형 도트RPG 대비 깊이 우위",
+      "elo_a_before": 1549,
+      "elo_b_before": 1517,
+      "elo_a_after": 1532,
+      "elo_b_after": 1534
+    },
+    {
+      "round": 6,
+      "match": 3,
+      "a": "임진왜란-조선의-반격",
+      "b": "모래-폭풍의-외로운-늑대",
+      "winner": "A",
+      "reason": "3인칭 전투+역사인물 연출+거래소/공성전 다층구조가 하이퍼캐주얼 머지슈터 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1517,
+      "elo_b_before": 1516,
+      "elo_a_after": 1533,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 6,
+      "match": 4,
+      "a": "냥냥섬-전설의-집사",
+      "b": "아웃포스트-서바이벌-방치형-머지",
+      "winner": "B",
+      "reason": "방치형+머지 검증공식+6개 메타탭이 비주얼노벨 중심 게임메커니즘 미확인 대비 트렌드/깊이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1500,
+      "elo_b_after": 1532
+    },
+    {
+      "round": 6,
+      "match": 5,
+      "a": "카령전기",
+      "b": "Tank-Raiders-Roguelike-Run",
+      "winner": "A",
+      "reason": "TD+카드전략의 웨이브경제+속성시너지가 단순 횡스크롤 런 대비 전략성 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1515,
+      "elo_a_after": 1532,
+      "elo_b_after": 1499
+    },
+    {
+      "round": 6,
+      "match": 6,
+      "a": "Slate-Hunters",
+      "b": "불릿-뱅가드",
+      "winner": "A",
+      "reason": "시즌패스+챕터+장비수집 라이브서비스가 하이퍼캐주얼 레벨클리어 대비 트렌드/메타깊이 우위",
+      "elo_a_before": 1513,
+      "elo_b_before": 1484,
+      "elo_a_after": 1528,
+      "elo_b_after": 1469
+    },
+    {
+      "round": 6,
+      "match": 7,
+      "a": "드래곤-퀘스트-스매시-그로우",
+      "b": "펀치-스쿼드-파이팅-게임",
+      "winner": "A",
+      "reason": "콘솔IP 감점에도 토리야마3D+로그라이크 프로덕션이 래그돌 하이퍼캐주얼 대비 압도적 우위",
+      "elo_a_before": 1485,
+      "elo_b_before": 1484,
+      "elo_a_after": 1501,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 6,
+      "match": 8,
+      "a": "Dead-City-Last-Escape",
+      "b": "드래곤네스트-월드",
+      "winner": "B",
+      "reason": "PC IP 감점에도 3D 논타겟 액션+거래소의 프로덕션/깊이가 텍스트 인디 서바이벌 대비 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1452,
+      "elo_a_after": 1467,
+      "elo_b_after": 1469
+    },
+    {
+      "round": 6,
+      "match": 9,
+      "a": "Dark-Beast-Assault",
+      "b": "에스카라",
+      "winner": "B",
+      "reason": "에스카라의 3D 환경아트+다층 MMO 시스템이 단순 뱀서라이크 클론 대비 프로덕션/깊이 우위",
+      "elo_a_before": 1483,
+      "elo_b_before": 1452,
+      "elo_a_after": 1466,
+      "elo_b_after": 1469
+    },
+    {
+      "round": 6,
+      "match": 10,
+      "a": "Soulbound-Awakening",
+      "b": "미소녀-앨범",
+      "winner": "A",
+      "reason": "최소 방치RPG 게임시스템이 게임메커니즘 부재 AI일러스트 대비 우위",
+      "elo_a_before": 1452,
+      "elo_b_before": 1422,
+      "elo_a_after": 1467,
+      "elo_b_after": 1407
+    }
+  ],
+  "round_snapshots": {
+    "1": {
+      "루나페이즈-프로젝트": 1516,
+      "픽셀-히어로즈-방치형-RPG": 1516,
+      "드래곤네스트-월드": 1484,
+      "드래곤-퀘스트-스매시-그로우": 1484,
+      "임진왜란-조선의-반격": 1484,
+      "미소녀-앨범": 1484,
+      "에스카라": 1484,
+      "모래-폭풍의-외로운-늑대": 1516,
+      "냥냥섬-전설의-집사": 1516,
+      "아웃포스트-서바이벌-방치형-머지": 1516,
+      "불릿-뱅가드": 1516,
+      "비스트-클래시-라스트-프런트": 1516,
+      "펀치-스쿼드-파이팅-게임": 1484,
+      "카령전기": 1484,
+      "Dead-City-Last-Escape": 1516,
+      "Soulbound-Awakening": 1484,
+      "초초초초밥-협동디펜스": 1484,
+      "Tank-Raiders-Roguelike-Run": 1516,
+      "Dark-Beast-Assault": 1484,
+      "Slate-Hunters": 1516
+    },
+    "2": {
+      "루나페이즈-프로젝트": 1532,
+      "픽셀-히어로즈-방치형-RPG": 1500,
+      "드래곤네스트-월드": 1468,
+      "드래곤-퀘스트-스매시-그로우": 1500,
+      "임진왜란-조선의-반격": 1500,
+      "미소녀-앨범": 1468,
+      "에스카라": 1500,
+      "모래-폭풍의-외로운-늑대": 1532,
+      "냥냥섬-전설의-집사": 1500,
+      "아웃포스트-서바이벌-방치형-머지": 1532,
+      "불릿-뱅가드": 1500,
+      "비스트-클래시-라스트-프런트": 1532,
+      "펀치-스쿼드-파이팅-게임": 1468,
+      "카령전기": 1500,
+      "Dead-City-Last-Escape": 1500,
+      "Soulbound-Awakening": 1468,
+      "초초초초밥-협동디펜스": 1500,
+      "Tank-Raiders-Roguelike-Run": 1500,
+      "Dark-Beast-Assault": 1468,
+      "Slate-Hunters": 1532
+    },
+    "3": {
+      "루나페이즈-프로젝트": 1548,
+      "픽셀-히어로즈-방치형-RPG": 1517,
+      "드래곤네스트-월드": 1452,
+      "드래곤-퀘스트-스매시-그로우": 1484,
+      "임진왜란-조선의-반격": 1516,
+      "미소녀-앨범": 1453,
+      "에스카라": 1484,
+      "모래-폭풍의-외로운-늑대": 1516,
+      "냥냥섬-전설의-집사": 1516,
+      "아웃포스트-서바이벌-방치형-머지": 1548,
+      "불릿-뱅가드": 1516,
+      "비스트-클래시-라스트-프런트": 1516,
+      "펀치-스쿼드-파이팅-게임": 1484,
+      "카령전기": 1484,
+      "Dead-City-Last-Escape": 1484,
+      "Soulbound-Awakening": 1452,
+      "초초초초밥-협동디펜스": 1516,
+      "Tank-Raiders-Roguelike-Run": 1515,
+      "Dark-Beast-Assault": 1484,
+      "Slate-Hunters": 1515
+    },
+    "4": {
+      "루나페이즈-프로젝트": 1564,
+      "픽셀-히어로즈-방치형-RPG": 1533,
+      "드래곤네스트-월드": 1436,
+      "드래곤-퀘스트-스매시-그로우": 1469,
+      "임진왜란-조선의-반격": 1500,
+      "미소녀-앨범": 1438,
+      "에스카라": 1468,
+      "모래-폭풍의-외로운-늑대": 1532,
+      "냥냥섬-전설의-집사": 1500,
+      "아웃포스트-서바이벌-방치형-머지": 1532,
+      "불릿-뱅가드": 1500,
+      "비스트-클래시-라스트-프런트": 1532,
+      "펀치-스쿼드-파이팅-게임": 1468,
+      "카령전기": 1500,
+      "Dead-City-Last-Escape": 1500,
+      "Soulbound-Awakening": 1468,
+      "초초초초밥-협동디펜스": 1532,
+      "Tank-Raiders-Roguelike-Run": 1499,
+      "Dark-Beast-Assault": 1499,
+      "Slate-Hunters": 1530
+    },
+    "5": {
+      "루나페이즈-프로젝트": 1579,
+      "픽셀-히어로즈-방치형-RPG": 1549,
+      "드래곤네스트-월드": 1452,
+      "드래곤-퀘스트-스매시-그로우": 1485,
+      "임진왜란-조선의-반격": 1517,
+      "미소녀-앨범": 1422,
+      "에스카라": 1452,
+      "모래-폭풍의-외로운-늑대": 1516,
+      "냥냥섬-전설의-집사": 1516,
+      "아웃포스트-서바이벌-방치형-머지": 1516,
+      "불릿-뱅가드": 1484,
+      "비스트-클래시-라스트-프런트": 1517,
+      "펀치-스쿼드-파이팅-게임": 1484,
+      "카령전기": 1516,
+      "Dead-City-Last-Escape": 1484,
+      "Soulbound-Awakening": 1452,
+      "초초초초밥-협동디펜스": 1548,
+      "Tank-Raiders-Roguelike-Run": 1515,
+      "Dark-Beast-Assault": 1483,
+      "Slate-Hunters": 1513
+    },
+    "6": {
+      "루나페이즈-프로젝트": 1594,
+      "픽셀-히어로즈-방치형-RPG": 1532,
+      "드래곤네스트-월드": 1469,
+      "드래곤-퀘스트-스매시-그로우": 1501,
+      "임진왜란-조선의-반격": 1533,
+      "미소녀-앨범": 1407,
+      "에스카라": 1469,
+      "모래-폭풍의-외로운-늑대": 1500,
+      "냥냥섬-전설의-집사": 1500,
+      "아웃포스트-서바이벌-방치형-머지": 1532,
+      "불릿-뱅가드": 1469,
+      "비스트-클래시-라스트-프런트": 1534,
+      "펀치-스쿼드-파이팅-게임": 1468,
+      "카령전기": 1532,
+      "Dead-City-Last-Escape": 1467,
+      "Soulbound-Awakening": 1467,
+      "초초초초밥-협동디펜스": 1533,
+      "Tank-Raiders-Roguelike-Run": 1499,
+      "Dark-Beast-Assault": 1466,
+      "Slate-Hunters": 1528
+    }
+  },
+  "finalized": true,
+  "k_factor": 32,
+  "initial_elo": 1500
+}
