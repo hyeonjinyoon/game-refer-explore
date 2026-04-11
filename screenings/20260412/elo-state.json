@@ -1,0 +1,1192 @@
+{
+  "date": "20260412",
+  "candidates": [
+    "Girl-Summons-Spirits",
+    "Wizard-Arcane-Tower",
+    "Nine-Tailed-Fox-Idle-RPG",
+    "Heros-Life-2",
+    "Banecraft-Idle-RPG",
+    "Blind-Box-Dungeon",
+    "Artifact-Dealer",
+    "Carpet-Hero-Jet-Hunter",
+    "Retro-Turret-Defense",
+    "Bangguseok-Yasu",
+    "Hwangje-Sword",
+    "Glory-For",
+    "Tactics-on-Board",
+    "Deep-Shot",
+    "Pocket-Rivals-Hero-Force",
+    "Knife-Hero-Idle-RPG",
+    "Fate-of-the-Legion",
+    "Cat-Hero-Tower-Defense",
+    "Pixel-Hero",
+    "Town-of-Lies-Merge"
+  ],
+  "elos": {
+    "Girl-Summons-Spirits": 1471,
+    "Wizard-Arcane-Tower": 1469,
+    "Nine-Tailed-Fox-Idle-RPG": 1502,
+    "Heros-Life-2": 1594,
+    "Banecraft-Idle-RPG": 1500,
+    "Blind-Box-Dungeon": 1533,
+    "Artifact-Dealer": 1437,
+    "Carpet-Hero-Jet-Hunter": 1407,
+    "Retro-Turret-Defense": 1500,
+    "Bangguseok-Yasu": 1564,
+    "Hwangje-Sword": 1468,
+    "Glory-For": 1533,
+    "Tactics-on-Board": 1530,
+    "Deep-Shot": 1530,
+    "Pocket-Rivals-Hero-Force": 1469,
+    "Knife-Hero-Idle-RPG": 1468,
+    "Fate-of-the-Legion": 1531,
+    "Cat-Hero-Tower-Defense": 1497,
+    "Pixel-Hero": 1530,
+    "Town-of-Lies-Merge": 1467
+  },
+  "current_round": 6,
+  "rounds_planned": 6,
+  "matchups": [
+    [
+      "Deep-Shot",
+      "Town-of-Lies-Merge"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Wizard-Arcane-Tower"
+    ],
+    [
+      "Cat-Hero-Tower-Defense",
+      "Girl-Summons-Spirits"
+    ],
+    [
+      "Carpet-Hero-Jet-Hunter",
+      "Hwangje-Sword"
+    ],
+    [
+      "Artifact-Dealer",
+      "Banecraft-Idle-RPG"
+    ],
+    [
+      "Blind-Box-Dungeon",
+      "Heros-Life-2"
+    ],
+    [
+      "Fate-of-the-Legion",
+      "Pixel-Hero"
+    ],
+    [
+      "Retro-Turret-Defense",
+      "Tactics-on-Board"
+    ],
+    [
+      "Glory-For",
+      "Pocket-Rivals-Hero-Force"
+    ],
+    [
+      "Knife-Hero-Idle-RPG",
+      "Nine-Tailed-Fox-Idle-RPG"
+    ],
+    [
+      "Girl-Summons-Spirits",
+      "Nine-Tailed-Fox-Idle-RPG"
+    ],
+    [
+      "Banecraft-Idle-RPG",
+      "Heros-Life-2"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Hwangje-Sword"
+    ],
+    [
+      "Glory-For",
+      "Tactics-on-Board"
+    ],
+    [
+      "Deep-Shot",
+      "Pixel-Hero"
+    ],
+    [
+      "Blind-Box-Dungeon",
+      "Wizard-Arcane-Tower"
+    ],
+    [
+      "Artifact-Dealer",
+      "Carpet-Hero-Jet-Hunter"
+    ],
+    [
+      "Pocket-Rivals-Hero-Force",
+      "Retro-Turret-Defense"
+    ],
+    [
+      "Fate-of-the-Legion",
+      "Knife-Hero-Idle-RPG"
+    ],
+    [
+      "Cat-Hero-Tower-Defense",
+      "Town-of-Lies-Merge"
+    ],
+    [
+      "Girl-Summons-Spirits",
+      "Heros-Life-2"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Tactics-on-Board"
+    ],
+    [
+      "Deep-Shot",
+      "Nine-Tailed-Fox-Idle-RPG"
+    ],
+    [
+      "Banecraft-Idle-RPG",
+      "Blind-Box-Dungeon"
+    ],
+    [
+      "Artifact-Dealer",
+      "Retro-Turret-Defense"
+    ],
+    [
+      "Glory-For",
+      "Hwangje-Sword"
+    ],
+    [
+      "Cat-Hero-Tower-Defense",
+      "Fate-of-the-Legion"
+    ],
+    [
+      "Pixel-Hero",
+      "Wizard-Arcane-Tower"
+    ],
+    [
+      "Carpet-Hero-Jet-Hunter",
+      "Pocket-Rivals-Hero-Force"
+    ],
+    [
+      "Knife-Hero-Idle-RPG",
+      "Town-of-Lies-Merge"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Heros-Life-2"
+    ],
+    [
+      "Deep-Shot",
+      "Girl-Summons-Spirits"
+    ],
+    [
+      "Blind-Box-Dungeon",
+      "Retro-Turret-Defense"
+    ],
+    [
+      "Fate-of-the-Legion",
+      "Glory-For"
+    ],
+    [
+      "Pixel-Hero",
+      "Tactics-on-Board"
+    ],
+    [
+      "Banecraft-Idle-RPG",
+      "Nine-Tailed-Fox-Idle-RPG"
+    ],
+    [
+      "Artifact-Dealer",
+      "Hwangje-Sword"
+    ],
+    [
+      "Knife-Hero-Idle-RPG",
+      "Pocket-Rivals-Hero-Force"
+    ],
+    [
+      "Cat-Hero-Tower-Defense",
+      "Wizard-Arcane-Tower"
+    ],
+    [
+      "Carpet-Hero-Jet-Hunter",
+      "Town-of-Lies-Merge"
+    ],
+    [
+      "Deep-Shot",
+      "Heros-Life-2"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Blind-Box-Dungeon"
+    ],
+    [
+      "Girl-Summons-Spirits",
+      "Glory-For"
+    ],
+    [
+      "Nine-Tailed-Fox-Idle-RPG",
+      "Tactics-on-Board"
+    ],
+    [
+      "Hwangje-Sword",
+      "Retro-Turret-Defense"
+    ],
+    [
+      "Knife-Hero-Idle-RPG",
+      "Pixel-Hero"
+    ],
+    [
+      "Fate-of-the-Legion",
+      "Wizard-Arcane-Tower"
+    ],
+    [
+      "Banecraft-Idle-RPG",
+      "Pocket-Rivals-Hero-Force"
+    ],
+    [
+      "Artifact-Dealer",
+      "Town-of-Lies-Merge"
+    ],
+    [
+      "Carpet-Hero-Jet-Hunter",
+      "Cat-Hero-Tower-Defense"
+    ],
+    [
+      "Glory-For",
+      "Heros-Life-2"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Deep-Shot"
+    ],
+    [
+      "Blind-Box-Dungeon",
+      "Tactics-on-Board"
+    ],
+    [
+      "Fate-of-the-Legion",
+      "Retro-Turret-Defense"
+    ],
+    [
+      "Girl-Summons-Spirits",
+      "Pixel-Hero"
+    ],
+    [
+      "Hwangje-Sword",
+      "Nine-Tailed-Fox-Idle-RPG"
+    ],
+    [
+      "Banecraft-Idle-RPG",
+      "Knife-Hero-Idle-RPG"
+    ],
+    [
+      "Pocket-Rivals-Hero-Force",
+      "Town-of-Lies-Merge"
+    ],
+    [
+      "Artifact-Dealer",
+      "Cat-Hero-Tower-Defense"
+    ],
+    [
+      "Carpet-Hero-Jet-Hunter",
+      "Wizard-Arcane-Tower"
+    ]
+  ],
+  "current_round_pairs": [
+    [
+      "Heros-Life-2",
+      "Glory-For"
+    ],
+    [
+      "Bangguseok-Yasu",
+      "Deep-Shot"
+    ],
+    [
+      "Tactics-on-Board",
+      "Blind-Box-Dungeon"
+    ],
+    [
+      "Retro-Turret-Defense",
+      "Fate-of-the-Legion"
+    ],
+    [
+      "Pixel-Hero",
+      "Girl-Summons-Spirits"
+    ],
+    [
+      "Nine-Tailed-Fox-Idle-RPG",
+      "Hwangje-Sword"
+    ],
+    [
+      "Banecraft-Idle-RPG",
+      "Knife-Hero-Idle-RPG"
+    ],
+    [
+      "Town-of-Lies-Merge",
+      "Pocket-Rivals-Hero-Force"
+    ],
+    [
+      "Cat-Hero-Tower-Defense",
+      "Artifact-Dealer"
+    ],
+    [
+      "Wizard-Arcane-Tower",
+      "Carpet-Hero-Jet-Hunter"
+    ]
+  ],
+  "history": [
+    {
+      "round": 1,
+      "match": 1,
+      "a": "Deep-Shot",
+      "b": "Town-of-Lies-Merge",
+      "winner": "A",
+      "reason": "머지+슈팅+수직디깅 하이브리드가 트렌드 적합성 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 2,
+      "a": "Bangguseok-Yasu",
+      "b": "Wizard-Arcane-Tower",
+      "winner": "A",
+      "reason": "TradingView 기반 단타 시뮬레이션이 MZ세대 투자 트렌드에 부합",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 3,
+      "a": "Cat-Hero-Tower-Defense",
+      "b": "Girl-Summons-Spirits",
+      "winner": "B",
+      "reason": "캡처상 소환 일러스트와 가챠 메타 시스템이 확연히 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 4,
+      "a": "Carpet-Hero-Jet-Hunter",
+      "b": "Hwangje-Sword",
+      "winner": "B",
+      "reason": "수묵화풍 아트와 다층 성장 시스템이 에셋 플립 수준 3D보다 우세",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 5,
+      "a": "Banecraft-Idle-RPG",
+      "b": "Artifact-Dealer",
+      "winner": "A",
+      "reason": "다층 메타 구조와 일관된 픽셀아트 프로덕션이 텍스트 기반 UI 대비 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 1,
+      "match": 6,
+      "a": "Blind-Box-Dungeon",
+      "b": "Heros-Life-2",
+      "winner": "B",
+      "reason": "서바이벌 로그라이크 트렌드 강세 장르에 중상급 프로덕션 퀄리티와 스킬 조합 깊이가 압도",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 7,
+      "a": "Fate-of-the-Legion",
+      "b": "Pixel-Hero",
+      "winner": "B",
+      "reason": "블록퍼즐+캐릭터 머지의 캐주얼 트렌드 접합성과 깔끔한 3D 렌더링이 시장성 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 8,
+      "a": "Retro-Turret-Defense",
+      "b": "Tactics-on-Board",
+      "winner": "B",
+      "reason": "다이스+보드+TD 하이브리드의 복수 레이어 전략 깊이가 전통 터렛 디펜스 상회",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 9,
+      "a": "Pocket-Rivals-Hero-Force",
+      "b": "Glory-For",
+      "winner": "B",
+      "reason": "한국사 소재와 다층 재화/파티/장비 메타 시스템이 캐주얼 오토배틀러보다 우세",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 1,
+      "match": 10,
+      "a": "Knife-Hero-Idle-RPG",
+      "b": "Nine-Tailed-Fox-Idle-RPG",
+      "winner": "B",
+      "reason": "구미호 IP와 완성된 메타 시스템이 저예산 얕은 머지 루프를 압도",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 2,
+      "match": 1,
+      "a": "Girl-Summons-Spirits",
+      "b": "Nine-Tailed-Fox-Idle-RPG",
+      "winner": "A",
+      "reason": "캐릭터 일러스트 퀄리티와 사이버펑크 배경 아트에서 프로덕션 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 2,
+      "a": "Heros-Life-2",
+      "b": "Banecraft-Idle-RPG",
+      "winner": "A",
+      "reason": "서바이벌 로그라이크 트렌드 적합성과 스킬 조합 깊이가 상회",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 3,
+      "a": "Bangguseok-Yasu",
+      "b": "Hwangje-Sword",
+      "winner": "A",
+      "reason": "차별화된 소재가 트렌드 적합성에서 압도적 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 4,
+      "a": "Glory-For",
+      "b": "Tactics-on-Board",
+      "winner": "B",
+      "reason": "다이스+보드+TD 하이브리드 메커니즘 참신성이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1500,
+      "elo_b_after": 1532
+    },
+    {
+      "round": 2,
+      "match": 5,
+      "a": "Deep-Shot",
+      "b": "Pixel-Hero",
+      "winner": "A",
+      "reason": "머지+슈팅 조합의 메커니즘 참신성과 일관된 픽셀아트가 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 6,
+      "a": "Wizard-Arcane-Tower",
+      "b": "Blind-Box-Dungeon",
+      "winner": "B",
+      "reason": "로그라이크+스텔스 조합이 트렌드 적합성에서 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 7,
+      "a": "Artifact-Dealer",
+      "b": "Carpet-Hero-Jet-Hunter",
+      "winner": "A",
+      "reason": "시스템 깊이가 에셋플립 수준 단일 메커니즘보다 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 2,
+      "match": 8,
+      "a": "Retro-Turret-Defense",
+      "b": "Pocket-Rivals-Hero-Force",
+      "winner": "A",
+      "reason": "100웨이브+다수 스테이지로 콘텐츠 볼륨과 깊이 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 2,
+      "match": 9,
+      "a": "Knife-Hero-Idle-RPG",
+      "b": "Fate-of-the-Legion",
+      "winner": "B",
+      "reason": "유닛 편성 전략과 전투 이펙트로 프로덕션 퀄리티와 깊이 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 2,
+      "match": 10,
+      "a": "Cat-Hero-Tower-Defense",
+      "b": "Town-of-Lies-Merge",
+      "winner": "A",
+      "reason": "경로 기반 배치 전략과 일관적 카툰 아트가 제네릭 머지보다 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 3,
+      "match": 1,
+      "a": "Girl-Summons-Spirits",
+      "b": "Heros-Life-2",
+      "winner": "B",
+      "reason": "서바이벌 로그라이크 트렌드 적합성 우위, 스킬 조합 깊이 상급",
+      "elo_a_before": 1532,
+      "elo_b_before": 1532,
+      "elo_a_after": 1516,
+      "elo_b_after": 1548
+    },
+    {
+      "round": 3,
+      "match": 2,
+      "a": "Bangguseok-Yasu",
+      "b": "Tactics-on-Board",
+      "winner": "A",
+      "reason": "MZ세대 주식 단타 문화 게임화가 차별성에서 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1532,
+      "elo_a_after": 1548,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 3,
+      "a": "Deep-Shot",
+      "b": "Nine-Tailed-Fox-Idle-RPG",
+      "winner": "A",
+      "reason": "머지+슈팅+수직디깅 참신한 조합이 레드오션 방치RPG보다 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1500,
+      "elo_a_after": 1547,
+      "elo_b_after": 1485
+    },
+    {
+      "round": 3,
+      "match": 4,
+      "a": "Banecraft-Idle-RPG",
+      "b": "Blind-Box-Dungeon",
+      "winner": "B",
+      "reason": "스텔스+던전크롤러+블라인드박스 조합이 로그라이크 트렌드에 부합",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 5,
+      "a": "Artifact-Dealer",
+      "b": "Retro-Turret-Defense",
+      "winner": "B",
+      "reason": "100웨이브 TD가 텍스트 시뮬 대비 게임 깊이와 접근성 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 6,
+      "a": "Hwangje-Sword",
+      "b": "Glory-For",
+      "winner": "B",
+      "reason": "게임 깊이와 한국사 소재 차별점에서 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1484,
+      "elo_b_after": 1516
+    },
+    {
+      "round": 3,
+      "match": 7,
+      "a": "Fate-of-the-Legion",
+      "b": "Cat-Hero-Tower-Defense",
+      "winner": "A",
+      "reason": "유닛 수집+편성 전략과 전투 이펙트로 퀄리티와 깊이 우세",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 3,
+      "match": 8,
+      "a": "Pixel-Hero",
+      "b": "Wizard-Arcane-Tower",
+      "winner": "A",
+      "reason": "블록퍼즐+머지+캐릭터 조합이 전형적 방치형보다 트렌드 적합",
+      "elo_a_before": 1500,
+      "elo_b_before": 1468,
+      "elo_a_after": 1515,
+      "elo_b_after": 1453
+    },
+    {
+      "round": 3,
+      "match": 9,
+      "a": "Carpet-Hero-Jet-Hunter",
+      "b": "Pocket-Rivals-Hero-Force",
+      "winner": "B",
+      "reason": "오토배틀러 편성 전략과 깔끔한 픽셀아트가 에셋플립보다 우세",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1452,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 3,
+      "match": 10,
+      "a": "Knife-Hero-Idle-RPG",
+      "b": "Town-of-Lies-Merge",
+      "winner": "A",
+      "reason": "머지+아이들 복합 루프와 메타 깊이가 단순 탭머지보다 우위",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1484,
+      "elo_b_after": 1452
+    },
+    {
+      "round": 4,
+      "match": 1,
+      "a": "Heros-Life-2",
+      "b": "Bangguseok-Yasu",
+      "winner": "A",
+      "reason": "서바이벌 로그라이크가 트렌드 적합성과 프로덕션 퀄리티 모두 우위",
+      "elo_a_before": 1548,
+      "elo_b_before": 1548,
+      "elo_a_after": 1564,
+      "elo_b_after": 1532
+    },
+    {
+      "round": 4,
+      "match": 2,
+      "a": "Deep-Shot",
+      "b": "Girl-Summons-Spirits",
+      "winner": "A",
+      "reason": "머지+슈팅+디깅 하이브리드가 포화된 미소녀 방치RPG보다 트렌드 참신성 우위",
+      "elo_a_before": 1547,
+      "elo_b_before": 1516,
+      "elo_a_after": 1562,
+      "elo_b_after": 1501
+    },
+    {
+      "round": 4,
+      "match": 3,
+      "a": "Blind-Box-Dungeon",
+      "b": "Retro-Turret-Defense",
+      "winner": "A",
+      "reason": "스텔스+던전크롤러+블라인드박스 조합이 로그라이크 트렌드에 부합",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 4,
+      "a": "Glory-For",
+      "b": "Fate-of-the-Legion",
+      "winner": "A",
+      "reason": "한국사 소재 픽셀RPG가 니치 차별점이라도 있어 전형적 방치RPG보다 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1516,
+      "elo_a_after": 1532,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 5,
+      "a": "Tactics-on-Board",
+      "b": "Pixel-Hero",
+      "winner": "A",
+      "reason": "다이스+보드+TD 하이브리드가 블록퍼즐보다 트렌드 적합성과 깊이 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1515,
+      "elo_a_after": 1532,
+      "elo_b_after": 1499
+    },
+    {
+      "round": 4,
+      "match": 6,
+      "a": "Nine-Tailed-Fox-Idle-RPG",
+      "b": "Banecraft-Idle-RPG",
+      "winner": "A",
+      "reason": "가챠/보스/던전 콘텐츠 깊이와 2D 이펙트 퀄리티에서 우위",
+      "elo_a_before": 1485,
+      "elo_b_before": 1484,
+      "elo_a_after": 1501,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 4,
+      "match": 7,
+      "a": "Artifact-Dealer",
+      "b": "Hwangje-Sword",
+      "winner": "B",
+      "reason": "수묵화풍 아트와 제련 시스템이 텍스트 기반 UI보다 비주얼 완성도 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 8,
+      "a": "Pocket-Rivals-Hero-Force",
+      "b": "Knife-Hero-Idle-RPG",
+      "winner": "B",
+      "reason": "머지+아이들 조합과 5탭 메타 시스템이 단순 오토배틀러보다 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1468,
+      "elo_b_after": 1500
+    },
+    {
+      "round": 4,
+      "match": 9,
+      "a": "Cat-Hero-Tower-Defense",
+      "b": "Wizard-Arcane-Tower",
+      "winner": "B",
+      "reason": "다중던전과 마스터리 성장축이 다양하여 게임 깊이 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1453,
+      "elo_a_after": 1467,
+      "elo_b_after": 1470
+    },
+    {
+      "round": 4,
+      "match": 10,
+      "a": "Carpet-Hero-Jet-Hunter",
+      "b": "Town-of-Lies-Merge",
+      "winner": "B",
+      "reason": "머지 장르 공식과 밝은 카툰 아트가 에셋플립 3D보다 프로덕션 우위",
+      "elo_a_before": 1452,
+      "elo_b_before": 1452,
+      "elo_a_after": 1436,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 5,
+      "match": 1,
+      "a": "Heros-Life-2",
+      "b": "Deep-Shot",
+      "winner": "A",
+      "reason": "서바이벌 로그라이크 트렌드 강세, 프로덕션과 스킬 조합 깊이 모두 우위",
+      "elo_a_before": 1564,
+      "elo_b_before": 1562,
+      "elo_a_after": 1580,
+      "elo_b_after": 1546
+    },
+    {
+      "round": 5,
+      "match": 2,
+      "a": "Blind-Box-Dungeon",
+      "b": "Bangguseok-Yasu",
+      "winner": "B",
+      "reason": "주식 단타 시뮬의 시의적절한 소재가 트렌드 차별화에서 앞섬",
+      "elo_a_before": 1532,
+      "elo_b_before": 1532,
+      "elo_a_after": 1516,
+      "elo_b_after": 1548
+    },
+    {
+      "round": 5,
+      "match": 3,
+      "a": "Glory-For",
+      "b": "Girl-Summons-Spirits",
+      "winner": "A",
+      "reason": "한국사 소재 니치와 파티/퀘스트 시스템 깊이가 포화된 미소녀 가챠 대비 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1501,
+      "elo_a_after": 1547,
+      "elo_b_after": 1486
+    },
+    {
+      "round": 5,
+      "match": 4,
+      "a": "Tactics-on-Board",
+      "b": "Nine-Tailed-Fox-Idle-RPG",
+      "winner": "A",
+      "reason": "다이스+보드+TD 하이브리드 메커니즘 신선도가 방치형 레드오션 대비 우위",
+      "elo_a_before": 1532,
+      "elo_b_before": 1501,
+      "elo_a_after": 1547,
+      "elo_b_after": 1486
+    },
+    {
+      "round": 5,
+      "match": 5,
+      "a": "Retro-Turret-Defense",
+      "b": "Hwangje-Sword",
+      "winner": "A",
+      "reason": "100웨이브 볼륨과 터렛 배치 전략이 수선 방치형 대비 게임 깊이 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1500,
+      "elo_a_after": 1516,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 5,
+      "match": 6,
+      "a": "Knife-Hero-Idle-RPG",
+      "b": "Pixel-Hero",
+      "winner": "B",
+      "reason": "블록퍼즐+캐릭터머지 조합이 트렌드와 아트에서 제네릭 머지아이들보다 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1499,
+      "elo_a_after": 1484,
+      "elo_b_after": 1515
+    },
+    {
+      "round": 5,
+      "match": 7,
+      "a": "Fate-of-the-Legion",
+      "b": "Wizard-Arcane-Tower",
+      "winner": "A",
+      "reason": "유닛 수집 오토배틀의 화려한 전투 이펙트가 인디 픽셀 방치형보다 퀄리티 우위",
+      "elo_a_before": 1500,
+      "elo_b_before": 1470,
+      "elo_a_after": 1515,
+      "elo_b_after": 1455
+    },
+    {
+      "round": 5,
+      "match": 8,
+      "a": "Banecraft-Idle-RPG",
+      "b": "Pocket-Rivals-Hero-Force",
+      "winner": "A",
+      "reason": "영혼 제작/합성 메커니즘과 다층 성장 구조가 단순 오토배틀러보다 깊이 우위",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1484,
+      "elo_b_after": 1452
+    },
+    {
+      "round": 5,
+      "match": 9,
+      "a": "Artifact-Dealer",
+      "b": "Town-of-Lies-Merge",
+      "winner": "B",
+      "reason": "머지 퍼즐 트렌드 적합성이 텍스트 시뮬보다 우위",
+      "elo_a_before": 1468,
+      "elo_b_before": 1468,
+      "elo_a_after": 1452,
+      "elo_b_after": 1484
+    },
+    {
+      "round": 5,
+      "match": 10,
+      "a": "Cat-Hero-Tower-Defense",
+      "b": "Carpet-Hero-Jet-Hunter",
+      "winner": "A",
+      "reason": "깔끔한 2D 카툰 아트와 정돈된 UI가 에셋플립 3D보다 모든 기준에서 우위",
+      "elo_a_before": 1467,
+      "elo_b_before": 1436,
+      "elo_a_after": 1482,
+      "elo_b_after": 1421
+    },
+    {
+      "round": 6,
+      "match": 1,
+      "a": "Heros-Life-2",
+      "b": "Glory-For",
+      "winner": "A",
+      "reason": "서바이벌 로그라이크 트렌드 최상위, UI 완성도와 스킬 조합 깊이가 니치 레트로 RPG 압도",
+      "elo_a_before": 1580,
+      "elo_b_before": 1547,
+      "elo_a_after": 1594,
+      "elo_b_after": 1533
+    },
+    {
+      "round": 6,
+      "match": 2,
+      "a": "Bangguseok-Yasu",
+      "b": "Deep-Shot",
+      "winner": "A",
+      "reason": "주식 단타 트렌드 게임화 차별성이 단순 머지+슈팅 대비 트렌드 적합성과 깊이 우위",
+      "elo_a_before": 1548,
+      "elo_b_before": 1546,
+      "elo_a_after": 1564,
+      "elo_b_after": 1530
+    },
+    {
+      "round": 6,
+      "match": 3,
+      "a": "Tactics-on-Board",
+      "b": "Blind-Box-Dungeon",
+      "winner": "B",
+      "reason": "스텔스+던전크롤러+블라인드박스 조합이 양산형 다이스+오토배틀 대비 메커니즘 차별화 명확",
+      "elo_a_before": 1547,
+      "elo_b_before": 1516,
+      "elo_a_after": 1530,
+      "elo_b_after": 1533
+    },
+    {
+      "round": 6,
+      "match": 4,
+      "a": "Retro-Turret-Defense",
+      "b": "Fate-of-the-Legion",
+      "winner": "B",
+      "reason": "유닛 편성 전략과 전투 이펙트 퀄리티가 구세대 플래시 감성 TD 대비 프로덕션과 아트 우위",
+      "elo_a_before": 1516,
+      "elo_b_before": 1515,
+      "elo_a_after": 1500,
+      "elo_b_after": 1531
+    },
+    {
+      "round": 6,
+      "match": 5,
+      "a": "Pixel-Hero",
+      "b": "Girl-Summons-Spirits",
+      "winner": "A",
+      "reason": "하이퍼캐주얼 트렌드 부합도와 깔끔한 3D 렌더링이 포화 미소녀 가챠RPG 대비 트렌드 적합성 우위",
+      "elo_a_before": 1515,
+      "elo_b_before": 1486,
+      "elo_a_after": 1530,
+      "elo_b_after": 1471
+    },
+    {
+      "round": 6,
+      "match": 6,
+      "a": "Nine-Tailed-Fox-Idle-RPG",
+      "b": "Hwangje-Sword",
+      "winner": "A",
+      "reason": "프로덕션 퀄리티, 전투 연출, 가챠/던전 콘텐츠 깊이에서 명확히 우위",
+      "elo_a_before": 1486,
+      "elo_b_before": 1484,
+      "elo_a_after": 1502,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 6,
+      "match": 7,
+      "a": "Banecraft-Idle-RPG",
+      "b": "Knife-Hero-Idle-RPG",
+      "winner": "A",
+      "reason": "영혼 제작/합성 독자 메커니즘과 다층 성장 구조가 단순 머지+자동전투 대비 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1484,
+      "elo_a_after": 1500,
+      "elo_b_after": 1468
+    },
+    {
+      "round": 6,
+      "match": 8,
+      "a": "Town-of-Lies-Merge",
+      "b": "Pocket-Rivals-Hero-Force",
+      "winner": "B",
+      "reason": "오토배틀러 유닛 편성+그리드 배치가 단순 탭머지보다 트렌드와 깊이 우위",
+      "elo_a_before": 1484,
+      "elo_b_before": 1452,
+      "elo_a_after": 1467,
+      "elo_b_after": 1469
+    },
+    {
+      "round": 6,
+      "match": 9,
+      "a": "Cat-Hero-Tower-Defense",
+      "b": "Artifact-Dealer",
+      "winner": "A",
+      "reason": "TD 전략 깊이와 2D 카툰 아트가 텍스트 기반 니치 시뮬보다 트렌드와 프로덕션 우위",
+      "elo_a_before": 1482,
+      "elo_b_before": 1452,
+      "elo_a_after": 1497,
+      "elo_b_after": 1437
+    },
+    {
+      "round": 6,
+      "match": 10,
+      "a": "Wizard-Arcane-Tower",
+      "b": "Carpet-Hero-Jet-Hunter",
+      "winner": "A",
+      "reason": "픽셀아트 방치형 RPG 성장 시스템이 에셋 플립 수준 슈팅보다 전 항목 우위",
+      "elo_a_before": 1455,
+      "elo_b_before": 1421,
+      "elo_a_after": 1469,
+      "elo_b_after": 1407
+    }
+  ],
+  "round_snapshots": {
+    "1": {
+      "Girl-Summons-Spirits": 1516,
+      "Wizard-Arcane-Tower": 1484,
+      "Nine-Tailed-Fox-Idle-RPG": 1516,
+      "Heros-Life-2": 1516,
+      "Banecraft-Idle-RPG": 1516,
+      "Blind-Box-Dungeon": 1484,
+      "Artifact-Dealer": 1484,
+      "Carpet-Hero-Jet-Hunter": 1484,
+      "Retro-Turret-Defense": 1484,
+      "Bangguseok-Yasu": 1516,
+      "Hwangje-Sword": 1516,
+      "Glory-For": 1516,
+      "Tactics-on-Board": 1516,
+      "Deep-Shot": 1516,
+      "Pocket-Rivals-Hero-Force": 1484,
+      "Knife-Hero-Idle-RPG": 1484,
+      "Fate-of-the-Legion": 1484,
+      "Cat-Hero-Tower-Defense": 1484,
+      "Pixel-Hero": 1516,
+      "Town-of-Lies-Merge": 1484
+    },
+    "2": {
+      "Girl-Summons-Spirits": 1532,
+      "Wizard-Arcane-Tower": 1468,
+      "Nine-Tailed-Fox-Idle-RPG": 1500,
+      "Heros-Life-2": 1532,
+      "Banecraft-Idle-RPG": 1500,
+      "Blind-Box-Dungeon": 1500,
+      "Artifact-Dealer": 1500,
+      "Carpet-Hero-Jet-Hunter": 1468,
+      "Retro-Turret-Defense": 1500,
+      "Bangguseok-Yasu": 1532,
+      "Hwangje-Sword": 1500,
+      "Glory-For": 1500,
+      "Tactics-on-Board": 1532,
+      "Deep-Shot": 1532,
+      "Pocket-Rivals-Hero-Force": 1468,
+      "Knife-Hero-Idle-RPG": 1468,
+      "Fate-of-the-Legion": 1500,
+      "Cat-Hero-Tower-Defense": 1500,
+      "Pixel-Hero": 1500,
+      "Town-of-Lies-Merge": 1468
+    },
+    "3": {
+      "Girl-Summons-Spirits": 1516,
+      "Wizard-Arcane-Tower": 1453,
+      "Nine-Tailed-Fox-Idle-RPG": 1485,
+      "Heros-Life-2": 1548,
+      "Banecraft-Idle-RPG": 1484,
+      "Blind-Box-Dungeon": 1516,
+      "Artifact-Dealer": 1484,
+      "Carpet-Hero-Jet-Hunter": 1452,
+      "Retro-Turret-Defense": 1516,
+      "Bangguseok-Yasu": 1548,
+      "Hwangje-Sword": 1484,
+      "Glory-For": 1516,
+      "Tactics-on-Board": 1516,
+      "Deep-Shot": 1547,
+      "Pocket-Rivals-Hero-Force": 1484,
+      "Knife-Hero-Idle-RPG": 1484,
+      "Fate-of-the-Legion": 1516,
+      "Cat-Hero-Tower-Defense": 1484,
+      "Pixel-Hero": 1515,
+      "Town-of-Lies-Merge": 1452
+    },
+    "4": {
+      "Girl-Summons-Spirits": 1501,
+      "Wizard-Arcane-Tower": 1470,
+      "Nine-Tailed-Fox-Idle-RPG": 1501,
+      "Heros-Life-2": 1564,
+      "Banecraft-Idle-RPG": 1468,
+      "Blind-Box-Dungeon": 1532,
+      "Artifact-Dealer": 1468,
+      "Carpet-Hero-Jet-Hunter": 1436,
+      "Retro-Turret-Defense": 1500,
+      "Bangguseok-Yasu": 1532,
+      "Hwangje-Sword": 1500,
+      "Glory-For": 1532,
+      "Tactics-on-Board": 1532,
+      "Deep-Shot": 1562,
+      "Pocket-Rivals-Hero-Force": 1468,
+      "Knife-Hero-Idle-RPG": 1500,
+      "Fate-of-the-Legion": 1500,
+      "Cat-Hero-Tower-Defense": 1467,
+      "Pixel-Hero": 1499,
+      "Town-of-Lies-Merge": 1468
+    },
+    "5": {
+      "Girl-Summons-Spirits": 1486,
+      "Wizard-Arcane-Tower": 1455,
+      "Nine-Tailed-Fox-Idle-RPG": 1486,
+      "Heros-Life-2": 1580,
+      "Banecraft-Idle-RPG": 1484,
+      "Blind-Box-Dungeon": 1516,
+      "Artifact-Dealer": 1452,
+      "Carpet-Hero-Jet-Hunter": 1421,
+      "Retro-Turret-Defense": 1516,
+      "Bangguseok-Yasu": 1548,
+      "Hwangje-Sword": 1484,
+      "Glory-For": 1547,
+      "Tactics-on-Board": 1547,
+      "Deep-Shot": 1546,
+      "Pocket-Rivals-Hero-Force": 1452,
+      "Knife-Hero-Idle-RPG": 1484,
+      "Fate-of-the-Legion": 1515,
+      "Cat-Hero-Tower-Defense": 1482,
+      "Pixel-Hero": 1515,
+      "Town-of-Lies-Merge": 1484
+    },
+    "6": {
+      "Girl-Summons-Spirits": 1471,
+      "Wizard-Arcane-Tower": 1469,
+      "Nine-Tailed-Fox-Idle-RPG": 1502,
+      "Heros-Life-2": 1594,
+      "Banecraft-Idle-RPG": 1500,
+      "Blind-Box-Dungeon": 1533,
+      "Artifact-Dealer": 1437,
+      "Carpet-Hero-Jet-Hunter": 1407,
+      "Retro-Turret-Defense": 1500,
+      "Bangguseok-Yasu": 1564,
+      "Hwangje-Sword": 1468,
+      "Glory-For": 1533,
+      "Tactics-on-Board": 1530,
+      "Deep-Shot": 1530,
+      "Pocket-Rivals-Hero-Force": 1469,
+      "Knife-Hero-Idle-RPG": 1468,
+      "Fate-of-the-Legion": 1531,
+      "Cat-Hero-Tower-Defense": 1497,
+      "Pixel-Hero": 1530,
+      "Town-of-Lies-Merge": 1467
+    }
+  },
+  "finalized": true,
+  "k_factor": 32,
+  "initial_elo": 1500
+}
